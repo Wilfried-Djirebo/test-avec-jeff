@@ -6,6 +6,5 @@
 	<title>C'est un test de prise en main de git</title>
 </head>
 <body>
-<h1>Hello Github</h1>
 </body>
 </html>
